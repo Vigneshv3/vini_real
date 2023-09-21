@@ -1,2 +1,2 @@
 # vini_real
-Real estate project done for intership
+Real estate project done for internship
